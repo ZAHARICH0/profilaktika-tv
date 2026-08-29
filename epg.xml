@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Профилактика ТВ">
+
+  <channel id="profilaktika-tv">
+    <display-name>Профилактика ТВ</display-name>
+  </channel>
+
+  <programme start="20260830000000 +0300"
+             stop="20260830060000 +0300"
+             channel="profilaktika-tv">
+    <title>Настроечная таблица</title>
+    <desc>Эфир телеканала «Профилактика».</desc>
+  </programme>
+
+  <programme start="20260830060000 +0300"
+             stop="20260830120000 +0300"
+             channel="profilaktika-tv">
+    <title>Настроечная таблица</title>
+    <desc>Эфир телеканала «Профилактика».</desc>
+  </programme>
+
+  <programme start="20260830120000 +0300"
+             stop="20260830180000 +0300"
+             channel="profilaktika-tv">
+    <title>Настроечная таблица</title>
+    <desc>Эфир телеканала «Профилактика».</desc>
+  </programme>
+
+  <programme start="20260830180000 +0300"
+             stop="20260831000000 +0300"
+             channel="profilaktika-tv">
+    <title>Настроечная таблица</title>
+    <desc>Эфир телеканала «Профилактика».</desc>
+  </programme>
+
+</tv>
