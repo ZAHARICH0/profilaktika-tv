@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/ZAHARICH0/profilaktika-tv/refs/heads/main/epg.xml"
+
+#EXTINF:-1 tvg-id="profilaktika-tv" tvg-name="Профилактика ТВ" group-title="Профилактика",Профилактика ТВ
+https://raw.githubusercontent.com/ZAHARICH0/profilaktika-tv/refs/heads/main/table.mp4
